@@ -1,4 +1,4 @@
-﻿# EasyNotification Library
+﻿# EasyNotification
 
 The `EasyNotification` library provides a simple and customizable way to display notifications in a Windows Forms application. It includes a base `Notification` class and three predefined notification types: `ErrorNotification`, `InfoNotification`, and `SuccessNotification`.
 
